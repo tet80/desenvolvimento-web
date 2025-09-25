@@ -6,7 +6,7 @@ const urlsToCache = [
   "tarde.jpg",
   "noite.jpg",
   "madrugada.jpg",
-  "icon-192.png",
+  "icon192.png",
   "icon-512.png"
 ];
 
@@ -43,6 +43,7 @@ self.addEventListener("fetch", function(event) {
       })
   );
 });
+
 
 
 
