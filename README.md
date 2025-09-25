@@ -43,5 +43,3 @@ O JavaScript utilizado neste projeto:
 * Determina a saudação apropriada com base nas horas do sistema
 * Mostra o **dia da semana** (como "Segunda-feira", "Terça-feira", etc.)
 
-
-Se quiser, posso também gerar o **código-fonte** para esse projeto. Deseja isso?
