@@ -29,7 +29,7 @@ O objetivo principal do projeto é demonstrar o uso de **HTML**, **CSS** e **Jav
 
 * **HTML5** – Estrutura da página
 * **CSS3** – Estilização
-* **JavaScript (Vanilla)** – Lógica para hora, data e saudação dinâmica
+* **JavaScript ** – Lógica para hora, data e saudação dinâmica
 
 
 
