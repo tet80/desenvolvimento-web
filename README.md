@@ -1,5 +1,4 @@
 # Desenvolvimento-web
-Claro! Aqui está um exemplo de um **README.md** profissional para um projeto de desenvolvimento web que exibe a hora e o dia conforme a hora atual do sistema:
 
 ---
 
